@@ -1,0 +1,2750 @@
+h1 {
+    color: rgb(5, 7, 5);
+    text-align: center;
+}
+.h4 {
+    text-align: center;
+}
+
+left-menu {
+    position: absolute;
+    width: 310px;
+    height: 1315px;
+    left: 10px;
+    top: 2px;
+
+    background: rgb(246, 241, 241);
+}
+
+left-menu>profile {
+    position: absolute;
+    width: 222.59px;
+    height: 320px;
+    left: 50px;
+    top: 30px;
+}
+
+
+left-menu>profile>img {
+    position: absolute;
+    height: 175px;
+    left: 30px;
+    right: 1194.33px;
+    top: 25px;
+    border-radius: 50%;
+}
+
+left-menu>profile>h4 {
+    position: absolute;
+    width: 144.33px;
+    height: 22px;
+    left: 30px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #2B2B2B;
+}
+
+left-menu>profile>p {
+    position: absolute;
+    width: 145.34px;
+    height: 24px;
+    left: 33px;
+    top: 240px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: 'calt'off, 'kern'off;
+    color: #767676;
+}
+
+left-menu>profile>social-icon {
+    position: absolute;
+    width: 222.59px;
+    height: 24px;
+    top: 290px;
+}
+
+left-menu>profile>social-icon>facebook {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: #FFB400;
+    border-radius: 50%;
+}
+
+left-menu>profile>social-icon>insta {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40px;
+    border-radius: 50%;
+    background: #FFB400;
+}
+
+left-menu>profile>social-icon>linkin {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 80px;
+    border-radius: 50%;
+    background: #FFB400;
+}
+
+left-menu>profile>social-icon>youtube {
+    position: absolute;
+    width: 38px;
+    height: 32px;
+    left: 120px;
+    border-radius: 50%;
+    background: #FFB400;
+}
+
+left-menu>profile>social-icon>skype {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 160px;
+    border-radius: 50%;
+    background-color: #FFB400;
+}
+
+border1 {
+
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 30px;
+    top: 358px;
+    border-bottom: 5px solid #9090e6;
+}
+
+about {
+    position: absolute;
+    width: 245px;
+    height: 126px;
+    left: 40px;
+    top: 383px;
+    text-justify: auto;
+}
+
+rec1 {
+    position: absolute;
+    width: 46.75px;
+    height: 24px;
+    top: 5px;
+    background: #FFB400;
+}
+
+res1 {
+    position: absolute;
+    width: 46.75px;
+    height: 24px;
+    top: 5px;
+    left: 200px;
+}
+
+rec2 {
+    position: absolute;
+    width: 90.46px;
+    height: 24px;
+    left: 0px;
+    top: 35px;
+    background: #FFB400;
+
+}
+
+res2 {
+    position: absolute;
+    width: 90.46px;
+    height: 24px;
+    left: 160px;
+    top: 35px;
+}
+
+rec3 {
+    position: absolute;
+    width: 86.39px;
+    height: 24px;
+    left: 0px;
+    top: 65px;
+    background: #FFB400;
+}
+
+res3 {
+    position: absolute;
+    width: 86.39px;
+    height: 24px;
+    left: 170px;
+    top: 65px;
+}
+
+rec4 {
+    position: absolute;
+    width: 76.23px;
+    height: 24px;
+    left: 0px;
+    top: 95px;
+    background: #FFB400;
+}
+
+res4 {
+    position: absolute;
+    width: 76.23px;
+    height: 24px;
+    left: 130px;
+    top: 95px;
+}
+
+border2 {
+
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 30px;
+    top: 520px;
+    border-bottom: 5px solid #9090e6;
+}
+
+language {
+    position: absolute;
+    width: 260px;
+    height: 145px;
+    left: 30px;
+    top: 540px;
+}
+
+language>div1 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 2px;
+    top: 55px;
+}
+
+language>di1 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 50px;
+}
+
+border3 {
+    position: absolute;
+    width: 210px;
+    height: 0px;
+    left: 0px;
+    top: 75px;
+    border-bottom: 3px solid #FFB400;
+}
+
+language>div2 {
+    position: absolute;
+    width: 222.59px;
+    height: 24px;
+    left: 2px;
+    top: 90px;
+}
+
+language>di2 {
+    position: absolute;
+    width: 222.59px;
+    height: 24px;
+    left: 185px;
+    top: 90px;
+}
+
+border4 {
+    position: absolute;
+    width: 190px;
+    height: 2px;
+    left: 0px;
+    top: 110px;
+    background: 3px #FFB400;
+}
+
+border5 {
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 0px;
+    top: 128px;
+    border-bottom: 5px solid #9090e6;
+}
+
+skills {
+    position: absolute;
+    width: 260px;
+    height: 245px;
+    left: 30px;
+    top: 700px;
+}
+
+skills>s1 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 00px;
+    top: 60px;
+}
+
+skills>res1 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 60px;
+}
+
+bor1 {
+    position: absolute;
+    width: 180px;
+    height: 0px;
+    left: 0px;
+    top: 80px;
+    border-bottom: 3px solid #FFB400;
+}
+
+skills>s2 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 0px;
+    top: 90px;
+}
+
+skills>res2 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 90px;
+}
+
+bor2 {
+    position: absolute;
+    width: 170px;
+    height: 0px;
+    left: 0px;
+    top: 110px;
+    border-bottom: 3px solid #FFB400;
+}
+
+skills>s3 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 0px;
+    top: 120px;
+}
+
+skills>res3 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 120px;
+}
+
+bor3 {
+    position: absolute;
+    width: 160px;
+    height: 0px;
+    left: 0px;
+    top: 140px;
+    border-bottom: 3px solid #FFB400;
+}
+
+skills>s4 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 0px;
+    top: 150px;
+}
+
+skills>res4 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 150px;
+}
+
+bor4 {
+    position: absolute;
+    width: 160px;
+    height: 0px;
+    left: 0px;
+    top: 170px;
+    border-bottom: 3px solid #FFB400;
+}
+
+skills>s5 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 0px;
+    top: 180px;
+}
+
+skills>res5 {
+    position: absolute;
+    width: 223.61px;
+    height: 24px;
+    left: 180px;
+    top: 180px;
+}
+
+bor5 {
+    position: absolute;
+    width: 150px;
+    height: 0px;
+    left: 0px;
+    top: 200px;
+    border-bottom: 3px solid #FFB400;
+}
+
+border6 {
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 0px;
+    top: 220px;
+    border-bottom: 5px solid #9090e6;
+}
+
+extra-skills {
+    position: absolute;
+    width: 260px;
+    height: 160px;
+    left: 30px;
+    top: 950px;
+}
+
+extra-skills>ico1>img {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: 0px;
+    top: 50px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+
+box1 {
+    position: absolute;
+    width: 189.05px;
+    height: 24px;
+    left: 30px;
+    top: 50px;
+}
+
+extra-skills>ico2>img {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: 0px;
+    top: 80px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+
+box2 {
+    position: absolute;
+    width: 189.05px;
+    height: 24px;
+    left: 30px;
+    top: 80px;
+}
+
+extra-skills>ico3>img {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: 0px;
+    top: 110px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+
+box3 {
+    position: absolute;
+    width: 189.05px;
+    height: 24px;
+    left: 30px;
+    top: 110px;
+}
+
+border7 {
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 0px;
+    top: 180px;
+    border-bottom: 5px solid #9090e6;
+}
+button1{
+    position: absolute;
+    width: 223.61px;
+    height: 40px;
+    left: 30px;
+    top: 1200px;
+    background-color: #FFB400;
+    text-align: center;
+}
+button1>div1{
+    position: absolute;
+    left: 18.18%;
+    right: 17.73%;
+    top: 25%;
+    bottom: 26.43%;
+}
+button1>a>i{
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    left: 80%;
+    right: 17.73%;
+    top: 30.71%;
+    bottom: 29.29%;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+
+
+right-menu {
+    position: absolute;
+    width: 110px;
+    height: 1315px;
+    left: 1310px;
+    top: 0px;
+    background: rgb(246, 241, 241);
+}
+right-menu > i {
+
+    position: absolute;
+    left: 40px;
+    top: 120px;
+}
+right-menu > menu{
+    position: absolute;
+    width: 55px;
+    height: 500px;
+    left: 7px;
+    top: 250px;
+}
+
+main-menu {
+    position: absolute;
+    width: 970px;
+    height: 465px;
+    left: 330px;
+    top: 0px;
+    background: rgb(246, 241, 241);
+}
+main-menu > div1{
+    position: absolute;
+    width: 500px;
+    height: 118px;
+    left: 25px;
+    top: 60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #2B2B2B;
+}
+.frontcolor{
+    color: #FFB400;
+}
+main-menu > div2{
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 25px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    color: #767676;
+}
+main-menu > div3{
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 600px;
+top: 40px;
+background-color: #767676;
+}
+main-menu > div3 > img{
+    height: 350px;
+    width: 300px;
+}
+
+main-menu > button {
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 25px;
+    top: 80%;
+    background-color: #FFB400;
+    border-radius: 10%;
+}
+
+my-service {
+    position: absolute;
+    width: 970px;
+    height: 650px;
+    left: 330px;
+    top: 500px;
+    background: rgb(246, 241, 241);
+}
+my-service > p{
+    position: absolute;
+    width: 500px;
+    height: 60px;
+    left: 200px;
+    top: 50px;
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+/* Paragraph Font */
+
+    color: #767676;
+
+}
+
+my-service > web-dev{
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 20px;
+    top: 130px;
+    background: rgb(255, 255, 255);
+}
+my-service > ui-ux {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 340px;
+    top: 130px;
+    background: rgb(255, 255, 255);
+}
+my-service > sound {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 660px;
+    top: 130px;
+    background: rgb(255, 255, 255);
+}
+my-service > game-des {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 20px;
+    top: 400px;
+    background: rgb(255, 255, 255);
+}
+my-service > photo-gra {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 340px;
+    top: 400px;
+    background: rgb(255, 255, 255);
+}
+my-service > advertise {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 660px;
+    top: 400px;
+    background: rgb(255, 255, 255);
+}
+my-service > web-dev > a > i{
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    color: #FFB400;
+}
+my-service > web-dev > h4{
+    position: absolute;
+    left: 80px;
+    top: 120px;
+}
+my-service > web-dev > p{
+    position: absolute;
+    left: 80px;
+    top: 150px;
+}
+my-service > ui-ux > a > i{
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    color: #FFB400;
+}
+my-service > ui-ux > h4{
+    position: absolute;
+    left: 80px;
+    top: 120px;
+}
+my-service > ui-ux > p{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+my-service > sound > a > i{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+    color: #FFB400;
+}
+my-service > sound > h4{
+    position: absolute;
+    left: 80px;
+    top: 120px;
+}
+my-service > sound > p{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+my-service > game-des > a > i{
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    color: #FFB400;
+}
+my-service > game-des > h4{
+    position: absolute;
+    left: 80px;
+    top: 120px;
+}
+my-service > game-des > p{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+my-service > photo-gra > a > i{
+    position: absolute;
+    left: 75px;
+    top: 30px;
+    color: #FFB400;
+}
+my-service > photo-gra > h4{
+    position: absolute;
+    left: 80px;
+    top: 120px;
+}
+my-service > photo-gra > p{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+my-service > advertise > a > i{
+    position: absolute;
+    left: 95px;
+    top: 35px;
+    color: #FFB400;
+}
+my-service > advertise > h4{
+    position: absolute;
+    left: 100px;
+    top: 120px;
+}
+my-service > advertise > p{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+
+price-plans {
+    position: absolute;
+    width: 970px;
+    height: 793px;
+    left: 330px;
+    top: 1351px;
+
+    background: rgb(246, 241, 241);
+}
+price-plans > p{
+    position: absolute;
+    width: 438px;
+    height: 30px;
+    left: 250px;
+    top: 50px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+price-plans > silver{
+    position: absolute;
+    width: 310px;
+    height: 610px;
+    left: 10px;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+
+}
+price-plans > gold{
+    position: absolute;
+    width: 310px;
+    height: 610px;
+    left: 330px;
+    top: 120px;
+    background-color:rgb(255, 255, 255);
+}
+price-plans > dimond{
+    position: absolute;
+    width: 308px;
+    height: 610px;
+    left: 650px;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+price-plans > silver > p{
+    position: absolute;
+    width: 248px;
+    height: 48px;
+    left: 30px;
+    top: 100px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+price-plans > gold > p {
+    position: absolute;
+    width: 248px;
+    height: 48px;
+    left: 30px;
+    top: 100px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+price-plans > dimond > p{
+    position: absolute;
+    width: 248px;
+    height: 48px;
+    left: 30px;
+    top: 100px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+price-plans > silver > fram{
+    position: absolute;
+    width: 253px;
+    height: 305px;
+    left: 30px;
+    top: 175px;
+}
+price-plans > gold > fram{
+    position: absolute;
+    width: 253px;
+    height: 305px;
+    left: 30px;
+    top: 175px;
+}
+price-plans > dimond >fram{
+    position: absolute;
+    width: 253px;
+    height: 305px;
+    left: 30px;
+    top: 175px;
+}
+price-plans > silver > button{
+    position: absolute;
+    width: 169px;
+    height: 38px;
+    left: 60px;
+    top: 530px;
+    border-radius: 40%;
+}
+price-plans > gold >button1{
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    
+    background-color: #FFB400;
+}
+price-plans > gold >button{
+    position: absolute;
+    width: 169px;
+    height: 38px;
+    left: 60px;
+    top: 530px;
+    border-radius: 40%;
+    
+    background-color: #FFB400;
+}
+price-plans > dimond >button{
+    position: absolute;
+    width: 169px;
+    height: 38px;
+    left: 60px;
+    top: 530px;
+    border-radius: 40%;
+}
+
+recommendations {
+    position: absolute;
+    width: 970px;
+    height: 566px;
+    left: 330px;
+    top: 2191px;
+
+    background: rgb(246, 241, 241);
+}
+recommendations > p{
+    position: absolute;
+    width: 500px;
+    height: 60px;
+    left: 200px;
+    top: 50px;
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+/* Paragraph Font */
+
+    color: #767676;
+
+}
+recommendations >review1{
+    position: absolute;
+    width: 300px;
+    height: 325px;
+    left: 15px;
+    top: 130px;
+    background-color: rgb(255, 255, 255);
+}
+recommendations > review1 > a1 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 10px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review1> a2 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 40px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review1> a3 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 70px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review1> a4 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 100px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review1> a5 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 130px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review1 > img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    top: 200px;
+    border-radius: 50px;
+}
+recommendations > review1 > name {
+    position: absolute;
+    width: 117px;
+    height: 22px;
+    left: 140px;
+    top: 250px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+recommendations >review2{
+    position: absolute;
+    width: 300px;
+    height: 325px;
+    left: 335px;
+    top: 130px;
+    background-color: rgb(255, 255, 255);
+}
+recommendations > review2 > a1 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 10px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+
+recommendations > review2 > a2 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 40px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review2 > a3 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 70px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review2 > a4 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 100px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review2 > a5 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 130px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review2 > img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    top: 200px;
+    border-radius: 50px;
+}
+recommendations > review2 > name {
+    position: absolute;
+    width: 140px;
+    height: 22px;
+    left: 140px;
+    top: 250px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+recommendations >review3{
+    position: absolute;
+    width: 300px;
+    height: 325px;
+    left: 655px;
+    top: 130px;
+    background-color: rgb(255, 255, 255);
+}
+recommendations > review3 > a1 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 10px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review3 > a2 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 40px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review3 > a3 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 70px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review3 > a4 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 100px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review3 > a5 > img{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 130px;
+    top: 10px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+recommendations > review3 > img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    top: 200px;
+    border-radius: 50px;
+}
+recommendations > review3 > name {
+    position: absolute;
+    width: 145px;
+    height: 22px;
+    left: 140px;
+    top: 250px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+}
+
+education {
+    position: absolute;
+    width: 970px;
+    height: 815px;
+    left: 330px;
+    top: 2827px;
+
+    background: rgb(246, 241, 241);
+}
+education > p{
+    position: absolute;
+width: 438px;
+height: 68px;
+left: 280px;
+top: 50px;
+
+/* P-15px paragraph */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+text-align: center;
+text-transform: capitalize;
+font-feature-settings: 'calt' off, 'kern' off;
+
+/* Paragraph Font */
+
+color: #767676;
+}
+education > box{
+    position: absolute;
+    width: 950px;
+    height: 630px;
+    left: 10px;
+    top: 180px;
+    background-color: rgb(255, 255, 255);
+}
+education > box > box1{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 10px;
+}
+education > box > box1 > name{
+    position: absolute;
+    width: 184px;
+    height: 22px;
+    left: 10px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box1 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box1 >date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    
+}
+education > box > box1 > name2{
+    position: absolute;
+    width: 250px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box1 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+education > box > border8{
+    position: absolute;
+    width: 901px;
+    height: 0px;
+    left: 20px;
+    top: 200px;
+    
+    /* Background */
+    
+    border: 1.5px solid #cdcdf7;
+}
+education > box > box2{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 215px;
+}
+education > box > box2 > name{
+    position: absolute;
+    width: 184px;
+    height: 22px;
+    left: 10px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box2 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box2 > date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+}
+education > box > box2 > name2{
+    position: absolute;
+    width: 350px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box2 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+education > box > border9{
+    position: absolute;
+    width: 901px;
+    height: 0px;
+    left: 20px;
+    top: 405px;
+    
+    /* Background */
+    
+    border: 1.5px solid #cdcdf7;
+    
+}
+education > box > box3{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 420px;
+}
+education > box > box3 > name{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 5px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box3 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box3 >date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+}
+education > box > box3 > name2{
+    position: absolute;
+    width: 350px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+education > box > box3 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+
+work-history {
+    position: absolute;
+    width: 970px;
+    height: 815px;
+    left: 330px;
+    top: 3712px;
+
+    background: rgb(246, 241, 241);
+}
+work-history > p{
+    position: absolute;
+    width: 438px;
+    height: 68px;
+    left: 280px;
+    top: 50px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+work-history > box{
+    position: absolute;
+    width: 950px;
+    height: 630px;
+    left: 10px;
+    top: 180px;
+    background-color: rgb(255, 255, 255);
+}
+work-history > box > box1{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 10px;
+}
+work-history > box > box1 > name{
+    position: absolute;
+    width: 184px;
+    height: 22px;
+    left: 10px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box1 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box1 >date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    
+}
+work-history > box > box1 > name2{
+    position: absolute;
+    width: 250px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box1 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+work-history > box > border8{
+    position: absolute;
+    width: 901px;
+    height: 0px;
+    left: 20px;
+    top: 200px;
+    
+    /* Background */
+    
+    border: 1.5px solid #cdcdf7;
+}
+work-history > box > box2{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 215px;
+}
+work-history > box > box2 > name{
+    position: absolute;
+    width: 184px;
+    height: 22px;
+    left: 10px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box2 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box2 > date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+}
+work-history > box > box2 > name2{
+    position: absolute;
+    width: 350px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box2 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+work-history > box > border9{
+    position: absolute;
+    width: 901px;
+    height: 0px;
+    left: 20px;
+    top: 405px;
+    
+    /* Background */
+    
+    border: 1.5px solid #cdcdf7;
+    
+}
+work-history > box > box3{
+    position: absolute;
+    width: 930px;
+    height: 180px;
+    left: 10px;
+    top: 420px;
+}
+work-history > box > box3 > name{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 5px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box3 >cname{
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 10px;
+    top: 70px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box3 >date{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 100px;
+    top: 70px;
+    background-color: #FFB400;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+}
+work-history > box > box3 > name2{
+    position: absolute;
+    width: 350px;
+    height: 22px;
+    left: 400px;
+    top: 10px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+work-history > box > box3 > des{
+    position: absolute;
+    width: 536px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+
+    /* Paragraph Progress - 15 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+
+portfolio {
+    position: absolute;
+    width: 970px;
+    height: 1195px;
+    left: 330px;
+    top: 4597px;
+
+    background: rgb(246, 241, 241);
+}
+portfolio > p {
+    position: absolute;
+    width: 438px;
+    height: 68px;
+    left: 280px;
+    top: 50px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+portfolio > top {
+    position: absolute;
+    width: 606px;
+    height: 22px;
+    left: 250px;
+    top: 150px;
+}
+portfolio > top > dev {
+    margin-right: 30px;
+}
+portfolio > box{
+    position: absolute;
+width: 960px;
+height: 940px;
+left: 5px;
+top: 200px;
+background-color: rgb(255, 255, 255);
+}
+portfolio > box > image1 > img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 5px;
+    top: 10px;
+}
+portfolio > box > image2> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 320px;
+    top: 10px; 
+}
+portfolio > box > image3> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 635px;
+    top: 10px;
+}
+portfolio > box > image4> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 5px;
+    top: 320px;
+}
+portfolio > box > image5> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 320px;
+    top: 320px;
+}
+portfolio > box > image6> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 635px;
+    top: 320px;
+}
+portfolio > box > image7> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 5px;
+    top: 640px;
+}
+portfolio > box > image8> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 320px;
+    top: 640px;
+}
+portfolio > box > image9> img {
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    left: 635px;
+    top: 640px;
+}
+
+blog {
+    position: absolute;
+    width: 970px;
+    height: 665px;
+    left: 330px;
+    top: 5862px;
+
+    background: rgb(246, 241, 241);
+}
+blog > p{
+    position: absolute;
+    width: 438px;
+    height: 68px;
+    left: 280px;
+    top: 50px;
+
+    /* P-15px paragraph */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+blog > box1{
+    position: absolute;
+    width: 300px;
+    height: 474px;
+    left: 20px;
+    top: 140px;
+    background-color: rgb(255, 255, 255);
+}
+blog > box1 > img {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    left: 0px;
+    top: 10px;
+}
+blog > box1 > h2{
+    position: absolute;
+    width: 249px;
+    height: 22px;
+    left: 10px;
+    top: 270px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+blog > box1 > p {
+    position: absolute;
+    width: 268px;
+    height: 70px;
+    left: 10px;
+    top: 295px;
+    
+    /* P-15px paragraph */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+}
+blog > box1 > button{
+    position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 10px;
+    top: 400px;
+    color: #FFB400;
+}
+blog > box2{
+    position: absolute;
+    width: 300px;
+    height: 474px;
+    left: 330px;
+    top: 140px;
+    background-color: rgb(255, 255, 255);
+}
+blog > box2 > img {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    left: 0px;
+    top: 10px;
+}
+blog > box2 > h2{
+    position: absolute;
+    width: 249px;
+    height: 22px;
+    left: 10px;
+    top: 270px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+blog > box2 > p {
+    position: absolute;
+    width: 268px;
+    height: 70px;
+    left: 10px;
+    top: 295px;
+    
+    /* P-15px paragraph */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+}
+blog > box2 > button{
+    position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 10px;
+    top: 400px;
+    color: #FFB400;
+}
+blog > box3{
+    position: absolute;
+    width: 300px;
+    height: 474px;
+    left: 640px;
+    top: 140px;
+    background-color: rgb(255, 255, 255);
+}
+blog > box3 > img {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    left: 0px;
+    top: 10px;
+}
+blog > box3 > h2{
+    position: absolute;
+    width: 249px;
+    height: 22px;
+    left: 10px;
+    top: 270px;
+
+    /* H4 - 18px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Black */
+
+    color: #2B2B2B;
+
+}
+blog > box3 > p {
+    position: absolute;
+    width: 268px;
+    height: 70px;
+    left: 10px;
+    top: 295px;
+    
+    /* P-15px paragraph */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+}
+blog > box3> button{
+    position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 10px;
+    top: 400px;
+    color: #FFB400;
+}
+
+leave-info {
+    position: absolute;
+    width: 570px;
+    height: 755px;
+    left: 330px;
+    top: 6597px;
+
+    background: rgb(246, 241, 241);
+}
+leave-info > box{
+    position: absolute;
+    width: 550px;
+    height: 665px;
+    left: 10px;
+    top: 70px;
+    background-color: rgb(255, 255, 255);
+}
+leave-info > box > p1 {
+    position: absolute;
+    width: 229px;
+    height: 25px;
+    left: 10px;
+    top: 10px;
+    
+    /* H4 - 18px */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+    
+    text-transform: capitalize;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+    
+}
+leave-info > box > box1 {
+    position: absolute;
+    width: 521px;
+    height: 50px;
+    left: 10px;
+    top: 40px;
+
+    /* Background */
+
+    background: #F0F0F6;
+}
+leave-info > box > p2 {
+    position: absolute;
+    width: 229px;
+    height: 25px;
+    left: 10px;
+    top: 100px;
+    
+    /* H4 - 18px */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+    
+    text-transform: capitalize;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+    
+}
+leave-info > box > box2{
+    position: absolute;
+    width: 521px;
+    height: 50px;
+    left: 10px;
+    top: 135px;
+
+    /* Background */
+
+    background: #F0F0F6;
+}
+leave-info > box > p3 {
+    position: absolute;
+    width: 229px;
+    height: 25px;
+    left: 10px;
+    top: 195px;
+    
+    /* H4 - 18px */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+    
+    text-transform: capitalize;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+    
+}
+leave-info > box > box3{
+    position: absolute;
+    width: 521px;
+    height: 50px;
+    left: 10px;
+    top: 230px;
+
+    /* Background */
+
+    background: #F0F0F6;
+}
+leave-info > box > p4 {
+    position: absolute;
+    width: 229px;
+    height: 25px;
+    left: 10px;
+    top: 290px;
+    
+    /* H4 - 18px */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+    
+    text-transform: capitalize;
+    
+    /* Paragraph Font */
+    
+    color: #767676;
+    
+}
+leave-info > box > box4{
+    position: absolute;
+    width: 521px;
+    height: 210px;
+    left: 10px;
+    top: 320px;
+
+    /* Background */
+
+    background: #F0F0F6;
+}
+leave-info > box > button{
+    position: absolute;
+    width: 159px;
+    height: 35px;
+    left: 10px;
+    top: 570px;
+    background-color: #FFB400;
+
+}
+
+contact-information {
+    position: absolute;
+    width: 370px;
+    height: 756px;
+    left: 935px;
+    top: 6597px;
+
+    background: rgb(246, 241, 241);
+}
+contact-information > location {
+    position: absolute;
+    width: 330px;
+    height: 200px;
+    left: 20px;
+    top: 80px;
+
+    background: rgb(255, 255, 255);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Paragraph Font */
+
+    color: #767676;
+
+}
+contact-information > location >a >i{
+    position: absolute;
+    left: 150px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+contact-information > location > p1{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 220px;
+    top: 70px;
+}
+contact-information > location > p2{
+    position: absolute;
+    width: 800px;
+    height: 10px;
+    left: 230px;
+    top: 118px;
+}
+contact-information > location > p3{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 200px;
+    top: 160px;
+}
+contact-information > mail {
+    position: absolute;
+    width: 330px;
+    height: 200px;
+    left: 20px;
+    top: 300px;
+
+    background: rgb(255, 255, 255);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+contact-information > mail > a>i{
+    position: absolute;
+    left: 150px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+contact-information > mail > p1{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 160px;
+    top: 70px;
+}
+contact-information > mail > p2{
+    position: absolute;
+    width: 800px;
+    height: 10px;
+    left: 200px;
+    top: 118px;
+}
+contact-information > mail > p3{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 200px;
+    top: 160px;
+}
+contact-information > moobile {
+    position: absolute;
+    width: 330px;
+    height: 200px;
+    left: 20px;
+    top: 520px;
+
+    background: rgb(255, 255, 255);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    /* or 22px */
+
+    text-transform: capitalize;
+
+    /* Paragraph Font */
+
+    color: #767676;
+}
+contact-information > moobile > a>i{
+    position: absolute;
+    left: 150px;
+    background-color: #FFB400;
+    border-radius: 50%;
+}
+contact-information > moobile > p1{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 250px;
+    top: 70px;
+}
+contact-information > moobile > p2{
+    position: absolute;
+    width: 800px;
+    height: 10px;
+    left: 220px;
+    top: 118px;
+}
+contact-information > moobile > p3{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 220px;
+    top: 160px;
+}
+map{
+    position: absolute;
+    width: 970px;
+    height: 350px;
+    left: 330px;
+    top: 7420px;
+    background-color: rgb(246, 241, 241);
+}
+map > img{
+    position: absolute;
+    width: 960px;
+    height: 290px;
+    left: 5px;
+    top: 20px;
+}
